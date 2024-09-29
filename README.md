@@ -1,1 +1,5 @@
-# implicit-bias-mirror-descent
+This repository contains code for the paper **Implicit Bias of Mirror Descent for Shallow Neural Networks in Univariate Regression** by Shuang Liang and Guido Montúfar. 
+
+Code for experiments on mirror descent with unscaled potentials (Figure 1) is contained in the file “md_unscaled.ipynb”. 
+
+Code for experiments on mirror descent with scaled potentials (Figure 2) is contained in in the file “md_scaled.ipynb”. 
